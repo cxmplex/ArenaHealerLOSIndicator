@@ -5,7 +5,7 @@ Draws a green line if you are in LOS of your healer, red if not.
 
 Download the repo as a zip, extract in `Interface\Addons` folder.
 
-# Third-party Dependencies
+# Third-party Credits
 
 * LibDraw https://github.com/MrTheSoulz/NerdPack-Protected/blob/master/external/LibDraw.lua
 * LibStub https://www.wowace.com/projects/libstub
